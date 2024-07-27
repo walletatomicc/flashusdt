@@ -1,5 +1,5 @@
 🚀 Introduction:
-Welcome to FLASHUSDT! This app is your go-to for transferring USDT (Tether) across different blockchain networks. Whether you're a crypto enthusiast or a developer, FLASHUSDT makes managing your USDT transactions easy and efficient. 💸💻
+Welcome to FLASHUSDT! This app is your go-to for transferring USDT (Tether) across different blockchain networks. Whether you're a crypto enthusiast or a developer, FLASHUSDT by Atomic Wallets makes managing your USDT transactions easy and efficient. 💸💻
 
 🔑 Key Features:
 👨‍💻 User-Friendly Interface:
